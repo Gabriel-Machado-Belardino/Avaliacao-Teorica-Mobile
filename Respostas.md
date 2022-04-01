@@ -1,4 +1,3 @@
-## 5)	Defina o que é o Graddle
+## 6)	Escreva o que é o SDK android
 ---
-
-    É um sistema de compilação no qual agrupa vários builds, no qual permite o programador escrever os códigos em JAVA durante o build
+    É um emulador Android no qual nos permite testar nossas aplicações
