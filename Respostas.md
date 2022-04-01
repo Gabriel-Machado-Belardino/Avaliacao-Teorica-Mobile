@@ -1,3 +1,4 @@
-## 4)	Defina o que é um Event Listener
+## 5)	Defina o que é o Graddle
 ---
-    Um Event Listener é uma parte do sistema no qual realiza uma operação quando uma ação definida é realizada.
+
+    É um sistema de compilação no qual agrupa vários builds, no qual permite o programador escrever os códigos em JAVA durante o build
