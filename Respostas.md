@@ -1,4 +1,3 @@
-## 3)	Defina o que é uma View
+## 4)	Defina o que é um Event Listener
 ---
-
-    É um objeto da interface gráfica na qual aparece para o usuário e ocupa uma área retangular dentro da tela do aplicativo, podendo ser um Botão, Imagem, Texto...
+    Um Event Listener é uma parte do sistema no qual realiza uma operação quando uma ação definida é realizada.
